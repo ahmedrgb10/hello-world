@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> BOKA is doing good. el7 and Now Kubernetes EKS is INTEGRATED</h1>  
+    <h1> hmmm el7... BOKA is doing great and Now Kubernetes EKS is INTEGRATED</h1>  
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
