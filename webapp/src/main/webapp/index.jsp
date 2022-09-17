@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Amato the perfect and most loved one was here </h1>
+   <h1> A7A. Bgd Thankyou, Amato the perfect and most loved one was here </h1>
 
   
 </form>
